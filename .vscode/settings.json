@@ -1,0 +1,5 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "/Users/shubham/GLN/gnl_draw/test_gln/.vscode/excel-pq-symbols"
+    ]
+}
